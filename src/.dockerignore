@@ -1,0 +1,6 @@
+server/fcgi_hello.fcgi
+report/
+nginx_part2/
+nginx_part6/
+docker-compose.yml
+.DS_Store
